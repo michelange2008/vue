@@ -1,0 +1,30 @@
+// SASS style sheet */
+// Palette color codes */
+// Palette URL: http://paletton.com/#uid=33e0s0krruKh6EVmdxjuPpyyEkd */
+
+// Feel free to copy&paste color codes to your application */
+
+
+// As hex codes */
+
+$vert-tc: #169A88;	// Main Primary color */
+$vert-c: #58BDB0;
+$vert-n: #32A494;
+$vert-f: #05806F;
+$vert-tf: #006557;
+
+$orange-tc: #F5A723;	// Main Secondary color (1) */
+$orange-c: #FFCD77;
+$orange-n: #FFBE4E;
+$orange-f: #CC8308;
+$orange-tf: #A16600;
+
+$rouge-tc: #F1222D;	// Main Secondary color (2) */
+$rouge-c: #FC757C;
+$rouge-n: #FB4D55;
+$rouge-f: #C80711;
+$rouge-tf: #9E0008;
+
+.bg-vert-n {
+    background: $vert-n !important;
+}
