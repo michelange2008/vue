@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <div class="display-4">Bonjour</div>
+    <div class="display-2 pa-3 ma-3">Formulaire de contact</div>
     <ValidationObserver
       v-slot="{ invalid }"
       tag="form"
